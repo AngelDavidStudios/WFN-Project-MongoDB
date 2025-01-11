@@ -1,0 +1,12 @@
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/bin/Debug/net8.0/Test.Models.deps.json
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/bin/Debug/net8.0/Test.Models.dll
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/bin/Debug/net8.0/Test.Models.pdb
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.csproj.AssemblyReference.cache
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.AssemblyInfoInputs.cache
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.AssemblyInfo.cs
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.csproj.CoreCompileInputs.cache
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.dll
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/refint/Test.Models.dll
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/Test.Models.pdb
+/Users/davidrueda/Desktop/UDLA/6 Semestre/Bases de Datos II/Semana 14/TestNoSQL/Test.Models/obj/Debug/net8.0/ref/Test.Models.dll
